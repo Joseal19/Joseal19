@@ -53,16 +53,6 @@ Protocol (MCP) e integrações agênticas.
 
 ---
 
-### 📌 Featured Projects
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [nome-do-repo](https://github.com/Josealbertonp/nome-do-repo) | Uma linha sobre o que faz | TypeScript · MCP |
-| [nome-do-repo](https://github.com/Josealbertonp/nome-do-repo) | Uma linha sobre o que faz | React · Node |
-| [nome-do-repo](https://github.com/Josealbertonp/nome-do-repo) | Uma linha sobre o que faz | Java · Angular |
-
----
-
 ### 💼 Experience
 
 **Software Engineer** · DevSquad — *Remoto (Murray, UT)* · 2026 – atual  
