@@ -1,72 +1,99 @@
-<h1 align="center">Hi 👋 I'm José Alberto</h1>
+# Hi, I'm José Alberto 👋
 
 <p align="center">
-  <b>Software Engineer @ DevSquad</b> · Full Stack + AI Engineering<br/>
-  Building with LLMs, MCP servers and agentic workflows
+  <strong>Software Engineer • Full Stack • AI Engineer</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/josealbertonp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:albertoj098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Paraná,%20BR-2ea44f?style=for-the-badge" alt="Location" />
-</p>
+I'm a Software Engineer with nearly **5 years of experience** building scalable web applications and AI-powered products.
+
+Currently, I work at **DevSquad**, developing production applications with **React, TypeScript, Node.js, Laravel, Python, and Swift**, while focusing on **Large Language Models (LLMs), Model Context Protocol (MCP), Agentic Workflows, and AI integrations**.
 
 ---
 
-### About me
+## 🚀 What I'm Working On
 
-Software Engineer com ~5 anos construindo aplicações web escaláveis, hoje focado na
-interseção entre **desenvolvimento full stack e IA aplicada** — LLMs, Model Context
-Protocol (MCP) e integrações agênticas.
-
-- 🔭 **@ DevSquad** — features full stack em React, Node.js, TypeScript, Laravel e Python
-- 🤖 Trabalhando com **LLMs, MCP servers e integração de agentes** em produtos reais
-- 🏗️ Background sólido em **Java/Spring Boot, Angular e PHP** em sistemas enterprise
-- 🔌 Experiência em integrações críticas: **eSocial**, **iFood API**, serviços externos
-- ✉️ [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
+- 🤖 Building AI-powered applications with LLMs
+- 🔌 Developing MCP servers and AI integrations
+- ⚡ Designing agentic workflows and tool-calling systems
+- 💻 Building scalable full-stack applications
+- 🧠 Exploring AI Engineering, Software Architecture, and Developer Experience
 
 ---
 
-### 🤖 AI & LLM
+## 🤖 AI
 
-[![](https://skillicons.dev/icons?i=python,fastapi,ts,docker&theme=dark)](https://skillicons.dev)
-
-`Model Context Protocol (MCP)` · `LLM APIs` · `Agentic workflows` · `Tool calling` · `RAG` · `Prompt engineering`
-
-### 🛠️ Stack
-
-**Languages**
-
-[![](https://skillicons.dev/icons?i=java,ts,js,php,python,swift&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![](https://skillicons.dev/icons?i=react,angular,vue,nuxtjs,tailwind,materialui&theme=dark)](https://skillicons.dev)
-
-**Backend & Infra**
-
-[![](https://skillicons.dev/icons?i=nodejs,laravel,spring,mysql,postgres,docker,linux&theme=dark)](https://skillicons.dev)
+`OpenAI` • `Claude` • `Cursor` • `Model Context Protocol (MCP)` • `Agentic Workflows` • `Tool Calling` • `RAG` • `Prompt Engineering`
 
 ---
 
-### 💼 Experience
+## 🛠 Tech Stack
 
-**Software Engineer** · DevSquad — *Remoto (Murray, UT)* · 2026 – atual  
-Full stack + AI. React, Node.js, TypeScript, Laravel, Python e iOS (Swift).
-Foco em LLMs, MCP e integrações com serviços externos.
+### Languages
 
-**Full Stack Developer** · OnSafety — *Remoto* · 2025 – 2026  
-Java, Spring Boot, JSF, Angular e PHP para gestão de segurança do trabalho.
-Integração com **eSocial**, automação de controle de EPIs e auditorias.
+TypeScript • JavaScript • Python • Java • PHP • Swift
 
-**Full Stack Developer** · Like Sistemas — *Remoto* · 2021 – 2025  
-PHP, Java, React e Angular. Integração da **API do iFood** com o sistema de pedidos.
+### Frontend
 
-**Frontend Developer** · Apoema — *Remoto* · 2023 – 2024  
-Vue 2/3 + Nuxt, Element Plus, Tailwind e **Leaflet** para gestão geoespacial de propriedades rurais.
+React • Next.js • Vue • Nuxt • Angular • Tailwind CSS • Material UI • Element Plus
 
-<sub><a href="https://www.linkedin.com/in/josealbertonp/">Histórico completo no LinkedIn →</a></sub>
+### Backend
+
+Node.js • Laravel • Spring Boot • Express • REST APIs
+
+### AI
+
+OpenAI API • Claude • Cursor • MCP • AI Agents • Tool Calling • RAG
+
+### Databases
+
+PostgreSQL • MySQL • SQLite
+
+### DevOps
+
+Docker • Linux • Git • GitHub Actions • Nginx
+
+---
+
+## 💼 Experience
+
+### Software Engineer — DevSquad *(2026 – Present)*
+
+Building AI-powered applications using React, TypeScript, Node.js, Laravel, Python, and Swift.
+
+- LLM integrations
+- MCP Servers
+- Agentic Workflows
+- External API integrations
+- Full Stack Development
+
+### Full Stack Developer — OnSafety *(2025 – Present)*
+
+Enterprise software development using Java, Spring Boot, Angular, JSF, and PHP.
+
+- eSocial integration
+- Compliance automation
+- Occupational safety platform
+
+### Full Stack Developer — Like Sistemas *(2021 – 2025)*
+
+ERP development using PHP, Java, React, and Angular.
+
+- iFood API integration
+- Restaurant management systems
+
+### Frontend Developer — Apoema *(2023 – 2024)*
+
+Geospatial applications using Vue, Nuxt, Tailwind CSS, Element Plus, and Leaflet.
+
+---
+
+## 🌐 Connect with Me
+
+🌍 **Portfolio**  
+https://josealbertonp.github.io/portfolio/
+
+💼 **LinkedIn**  
+https://linkedin.com/in/josealbertonp
+
+📧 **Email**  
+albertoj098@gmail.com
